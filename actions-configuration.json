@@ -1,0 +1,50 @@
+[
+  {
+    "name": "07:00",
+    "urls": [
+      {
+        "url": "http://google.ch",
+        "method": "GET"
+      }
+    ],
+    "color": "dodger-blue",
+    "enabled": true,
+    "icon": "time"
+  },
+  {
+    "name": "08:00",
+    "urls": [
+      {
+        "url": "http://google.ch",
+        "method": "GET"
+      }
+    ],
+    "color": "dodger-blue",
+    "enabled": true,
+    "icon": "time"
+  },
+  {
+    "name": "13:30",
+    "urls": [
+      {
+        "url": "http://google.ch",
+        "method": "GET"
+      }
+    ],
+    "color": "dodger-blue",
+    "enabled": true,
+    "icon": "time"
+  },
+  {
+    "name": "17:30",
+    "urls": [
+      {
+        "url": "http://google.ch",
+        "method": "GET"
+      }
+    ],
+    "color": "dodger-blue",
+    "enabled": true,
+    "icon": "time"
+  }
+]

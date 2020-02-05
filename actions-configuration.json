@@ -3,8 +3,46 @@
     "name": "07:00",
     "urls": [
       {
-        "url": "http://google.ch",
-        "method": "GET"
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/117/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "07:00"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/118/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "07:00"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/119/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "07:00"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
       }
     ],
     "color": "dodger-blue",
@@ -12,11 +50,37 @@
     "icon": "time"
   },
   {
-    "name": "08:00",
+    "name": "11:00",
     "urls": [
       {
-        "url": "http://google.ch",
-        "method": "GET"
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/117/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "11:00"
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/118/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "11:00"
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/119/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "11:00"
+          }
+        ]
       }
     ],
     "color": "dodger-blue",
@@ -27,8 +91,46 @@
     "name": "13:30",
     "urls": [
       {
-        "url": "http://google.ch",
-        "method": "GET"
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/117/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "13:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/118/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "13:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/119/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "13:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
       }
     ],
     "color": "dodger-blue",
@@ -39,8 +141,46 @@
     "name": "17:30",
     "urls": [
       {
-        "url": "http://google.ch",
-        "method": "GET"
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/117/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "17:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/118/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "17:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "url": "http://demosrp03-euroshop.bison-smartretail.swiss:18080/mobile/stores/54/articles/119/texts",
+        "method": "PATCH",
+        "body": [
+          {
+            "key": "time",
+            "value": "17:30"
+          },
+          {
+            "key": "inventorycount",
+            "value": ""
+          }
+        ]
       }
     ],
     "color": "dodger-blue",
